@@ -23,7 +23,7 @@
                 <table>
                     <td>ID </td>
                         <td>
-                            <input type="text" name="id" value="<?= $cliente->id ?>" size="10" readonly autofocus>
+                            <input type="text" name="id" value="<?= $cliente->id ?>" size="10" readonly>
                         </td>
                     </tr>
                     <tr>
